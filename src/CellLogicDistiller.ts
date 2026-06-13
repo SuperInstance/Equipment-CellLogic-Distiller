@@ -15,7 +15,7 @@ import type {
   BenefitMetrics,
   TriggerThresholds,
   EquipmentDescription,
-} from '@superinstance/starter-agent';
+} from 'superinstance-starter-agent';
 
 import { TileDecomposer } from './TileDecomposer.js';
 import { SpreadsheetVisualizer } from './SpreadsheetVisualizer.js';

@@ -2,7 +2,7 @@
  * Types for Cell Logic Distiller Equipment
  */
 
-import type { Tile, TileType, ProvenanceChain } from '@superinstance/starter-agent';
+import type { Tile, TileType, ProvenanceChain } from 'superinstance-starter-agent';
 
 // ============================================
 // Logic Tile Types

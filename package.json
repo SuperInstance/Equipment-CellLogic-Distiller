@@ -36,5 +36,8 @@
   "homepage": "https://github.com/superinstance/equipment-cell-logic-distiller#readme",
   "engines": {
     "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "superinstance-starter-agent": "^1.0.0"
   }
 }

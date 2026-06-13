@@ -5,7 +5,7 @@
  * with tile decomposition. Implements the Equipment interface for integration
  * with the SuperInstance ecosystem.
  */
-import type { Equipment, EquipmentSlot, OriginCore, Tile, CostMetrics, BenefitMetrics, TriggerThresholds, EquipmentDescription } from '@superinstance/starter-agent';
+import type { Equipment, EquipmentSlot, OriginCore, Tile, CostMetrics, BenefitMetrics, TriggerThresholds, EquipmentDescription } from 'superinstance-starter-agent';
 import type { LogicTile, DecompositionResult, DistillationInput, DistillationOptions, ReverseEngineerResult, LogicSpreadsheet } from './types';
 /**
  * CellLogicDistiller Equipment
